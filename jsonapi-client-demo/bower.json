@@ -1,0 +1,27 @@
+{
+  "name": "plugins",
+  "version": "0.0.0",
+  "homepage": "https://github.com/RokkinCat/plugins",
+  "authors": [
+    "Jake Robers <jakerobers@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-messages": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-mocks": "~1.4.8",
+    "ngstorage": "~0.3.10",
+    "angular": "v1.5.0-build.4428+sha.1dd206e",
+    "angular-websocket": "~1.0.14",
+    "underscore": "~1.8.3",
+    "ng-prettyjson": "~0.2.0"
+  }
+}
